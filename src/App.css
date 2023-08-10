@@ -14,7 +14,9 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url(assets/image/artex-gaming-bg.jpg);
+  background-position:center;
+  background-size: 100%;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
